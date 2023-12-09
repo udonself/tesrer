@@ -1,0 +1,10 @@
+.note{
+    width: 400px;
+    border: 1px #000 solid;
+}
+.note__title{
+    font-size: 35px;
+}
+.note__content{
+    font-size: 20px;
+}
